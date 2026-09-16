@@ -1,12 +1,12 @@
 # 1DAMP_GarciaSuarez_Jorge
--¿Qué es un programa informático?
+## -¿Qué es un programa informático?
 Un programa informático es un conjunto de instrucciones que le dice a un ordenador qué hacer
 
--Diferencia entre código fuente, código objeto y código ejecutable
+## -Diferencia entre código fuente, código objeto y código ejecutable
 
 Código fuente es lo que escribe el programador, mientras que Código objeto es resultado intermedio tras compilar y el codigo ejecutable es final para que se puede ejecutar en el sistema operativo
 
--Etapas del desarrollo del software
+## -Etapas del desarrollo del software
 
 Planificación: Definir objetivos, alcance, recursos y plazos para guiar el proyecto.
 
