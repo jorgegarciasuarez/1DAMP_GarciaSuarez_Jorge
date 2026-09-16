@@ -8,20 +8,14 @@ Código fuente es lo que escribe el programador, mientras que Código objeto es 
 
 ## -Etapas del desarrollo del software
 
-**Planificación**: Definir objetivos, alcance, recursos y plazos para guiar el proyecto.
+- **Planificación**: Definir objetivos, alcance, recursos y plazos para guiar el proyecto.
+- **Análisis**: Traducir requisitos en especificaciones claras y detectar riesgos.
+- **Diseño**: Establecer la arquitectura, componentes e interfaces del sistema.
+- **Programación**: Escribir y depurar el código según el diseño.
+- **Pruebas**: Verificar y corregir errores mediante pruebas unitarias e integradas.
+- **Implementación**: Desplegar y configurar el software en el entorno de producción.
+- **Mantenimiento**: Actualizar, corregir y mejorar el sistema de forma continua.
+- **Documentación**: Registrar funcionamiento, uso y decisiones técnicas.
 
-**Análisis**: Traducir requisitos en especificaciones claras y detectar riesgos.
-
-**Diseño**: Establecer la arquitectura, componentes e interfaces del sistema.
-
-**Programación**: Escribir y depurar el código según el diseño.
-
-**Pruebas**: Verificar y corregir errores mediante pruebas unitarias e integradas.
-
-**Implementación**: Desplegar y configurar el software en el entorno de producción.
-
-**Mantenimiento**: Actualizar, corregir y mejorar el sistema de forma continua.
-  
-**Documentación**: Registrar funcionamiento, uso y decisiones técnicas.
 
 **Información sacada de**: [https://global.tiffin.edu/blog/cuales-son-las-etapas-del-desarrollo-de-software]
